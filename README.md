@@ -3,7 +3,7 @@ Write descriptions for files on your computer so you remember what they do
 
 To take a note:
 
-note [-options] [filename] <notes>
+note [-options] [filename] notes
 
 To view a note:
 
